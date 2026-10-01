@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 
-<h1 align="center">Hi 👋 I'm Khang Mai</h1>
+<h1 align="center">Hi there, I'm Khang</h1>
 
 <h3 align="center">
 Senior Software Engineer • Technical Lead • System Architect
@@ -17,7 +17,7 @@ Building systems across <b>Web • Mobile • Cloud • Blockchain</b>
 
 ---
 
-# 🚀 About Me
+# About Me
 
 - 💻 Senior Software Engineer & Technical Lead  
 - 🧠 Passionate about **System Design & Architecture**
@@ -27,7 +27,7 @@ Building systems across <b>Web • Mobile • Cloud • Blockchain</b>
 
 ---
 
-# 🧑‍💻 Experience
+# Experience
 
 - Technical Lead — Architecting scalable systems
 - Full-stack development for high-scale platforms
@@ -80,15 +80,15 @@ High-scale online examination system with proctoring, analytics, and secure test
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KhangSteve&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KhangMNK&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhangSteve&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhangMNK&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangSteve&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangMNK&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@ High-scale online examination system with proctoring, analytics, and secure test
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhangSteve&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhangMNK&theme=tokyo-night"/>
 </p>
 
 ---
