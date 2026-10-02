@@ -95,9 +95,7 @@ High-scale online examination system with proctoring, analytics, and secure test
 
 # 📈 Activity Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhangMNK&theme=tokyo-night"/>
-</p>
+TBU
 
 ---
 
