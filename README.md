@@ -101,7 +101,7 @@ TBU
 
 # 🌐 Connect With Me
 
-- Portfolio: https://khang-portfolio-psi.vercel.app
+- Portfolio: https://khangmai.com
 - LinkedIn: https://www.linkedin.com/in/khang-mai-77392211b/
 - GitHub: https://github.com/KhangMNK
 
